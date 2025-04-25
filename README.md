@@ -1,5 +1,7 @@
 # fastbites
 
+private repo frfr
+
 -   buat database pake nama db_toko_fastbites
 
 ```bash
